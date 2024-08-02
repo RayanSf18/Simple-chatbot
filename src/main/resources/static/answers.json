@@ -1,0 +1,57 @@
+{
+  "faq": [
+    {
+      "keywords": ["criação", "fundação", "origem", "início", "inicio"],
+      "answer": "O primeiro filme da saga Star Wars, 'Uma Nova Esperança', foi lançado em 1977, criado por George Lucas."
+    },
+    {
+      "keywords": ["objetivo", "propósito", "proposito"],
+      "answer": "O objetivo da saga Star Wars é contar a luta épica entre o bem e o mal, representados pela Força e pelo Lado Sombrio, e explorar temas de heroísmo, sacrifício e redenção."
+    },
+    {
+      "keywords": ["personagens", "protagonistas", "heróis", "vilões"],
+      "answer": "Os personagens principais incluem Luke Skywalker, Leia Organa, Han Solo, Darth Vader, Yoda, Obi-Wan Kenobi, Rey, Kylo Ren, Finn e Poe Dameron, entre muitos outros."
+    },
+    {
+      "keywords": ["episódios", "filmes", "partes"],
+      "answer": "A saga principal de Star Wars consiste em nove episódios: as trilogias original (IV-VI), prequela (I-III) e sequela (VII-IX). Existem também filmes derivados como 'Rogue One' e 'Solo'."
+    },
+    {
+      "keywords": ["diretor", "criador", "produtor"],
+      "answer": "George Lucas é o criador da saga Star Wars e dirigiu a trilogia original. Outros diretores incluem Irvin Kershner (Episódio V), Richard Marquand (Episódio VI), J.J. Abrams (Episódios VII e IX), Rian Johnson (Episódio VIII) e Gareth Edwards ('Rogue One')."
+    },
+    {
+      "keywords": ["universo expandido", "livros", "quadrinhos", "séries"],
+      "answer": "Além dos filmes, Star Wars tem um vasto universo expandido, incluindo livros, quadrinhos, séries de TV como 'The Mandalorian', 'The Clone Wars', 'Rebels', 'The Bad Batch', e jogos como 'Knights of the Old Republic' e 'Jedi: Fallen Order'."
+    },
+    {
+      "keywords": ["localização", "planetas", "cenários"],
+      "answer": "A saga Star Wars ocorre em uma galáxia fictícia com muitos planetas icônicos como Tatooine, Coruscant, Hoth, Endor, Naboo, Mustafar, Jakku e Ahch-To."
+    },
+    {
+      "keywords": ["força", "lado sombrio", "jedi", "sith"],
+      "answer": "A Força é um campo de energia místico, e os Jedi são os guardiões da paz que utilizam o Lado Luminoso, enquanto os Sith utilizam o Lado Sombrio para poder e dominação. Personagens famosos que utilizam a Força incluem Anakin Skywalker, Obi-Wan Kenobi, Yoda, Luke Skywalker, Rey e Palpatine."
+    },
+    {
+      "keywords": ["trilogia", "sequência", "prequela", "sequela"],
+      "answer": "A trilogia original (episódios IV-VI) segue Luke Skywalker e seus amigos na luta contra o Império. A trilogia prequela (episódios I-III) conta a queda de Anakin Skywalker e a ascensão do Império. A trilogia sequela (episódios VII-IX) continua a história com novos personagens como Rey e Kylo Ren."
+    },
+    {
+      "keywords": ["lugar de filmagem", "locações", "filmagem"],
+      "answer": "Os filmes de Star Wars foram filmados em vários locais ao redor do mundo, incluindo Tunísia (Tatooine), Noruega (Hoth), Itália (Naboo), Croácia (Canto Bight), e estúdios na Inglaterra e nos EUA."
+    },
+    {
+      "keywords": ["droids", "robôs", "androides"],
+      "answer": "Droids são uma parte essencial do universo Star Wars. Os mais famosos incluem R2-D2, C-3PO, BB-8, K-2SO e D-O. Eles desempenham várias funções, desde assistência em naves espaciais até traduções e combate."
+    },
+    {
+      "keywords": ["naves", "veículos", "espaçonaves"],
+      "answer": "Star Wars apresenta uma variedade de naves e veículos icônicos, incluindo a Millennium Falcon, X-Wings, TIE Fighters, Star Destroyers, AT-AT Walkers, e a Death Star."
+    },
+    {
+      "keywords": ["organizações", "facções", "alianças"],
+      "answer": "As principais organizações em Star Wars incluem a Aliança Rebelde, o Império Galáctico, a Nova República, a Primeira Ordem, e a Resistência. Cada uma desempenha um papel crucial na luta pelo controle da galáxia."
+    }
+  ],
+  "default": "Desculpe, mas no momento não consigo responder sua pergunta. Você pode visitar o site oficial de Star Wars para mais informações."
+}
